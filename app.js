@@ -28,7 +28,7 @@
 // bestMan = "New charlie";
 
 // // CHAPTER 3
-// // 1. 
+// // 1.
 // var caseQty;
 
 // // 2.
@@ -67,20 +67,56 @@
 // document.write("Variable names are case sensitive <br>");
 // document.write("Variable names should not be JS keywords")
 
-// CHAPTER 5
-// 1.
-var num1 = +prompt("Enter number One");
-var num2 = +prompt("Enter number Two");
-var sum = num1 + num2;
-document.write("Sum of " + num1 + " and " + num2 + " is " + sum + "<br>");
+// // CHAPTER 5
+// // 1.
+// var num1 = +prompt("Enter number One");
+// var num2 = +prompt("Enter number Two");
+// var sum = num1 + num2;
+// document.write("Sum of " + num1 + " and " + num2 + " is " + sum + "<br>");
 
-// 2.
-var diff = num1 - num2;
-document.write("Difference of " + num1 + " and " + num2 + " is " + diff + "<br>");
-var product = num1 * num2;
-document.write("Product of " + num1 + " and " + num2 + " is " + product + "<br>");
-var quotient = num1 / num2;
-document.write("Quotient of " + num1 + " and " + num2 + " is " + quotient + "<br>");
-var remainder = num1 % num2;
-document.write("Remainder of " + num1 + " and " + num2 + " is " + remainder);
+// // 2.
+// var diff = num1 - num2;
+// document.write("Difference of " + num1 + " and " + num2 + " is " + diff + "<br>");
+// var product = num1 * num2;
+// document.write("Product of " + num1 + " and " + num2 + " is " + product + "<br>");
+// var quotient = num1 / num2;
+// document.write("Quotient of " + num1 + " and " + num2 + " is " + quotient + "<br>");
+// var remainder = num1 % num2;
+// document.write("Remainder of " + num1 + " and " + num2 + " is " + remainder);
+
+// // 3.
+// var num;
+// document.write("Value of variable declaration is " + num + "<br>");
+// num = 5;
+// document.write("Initial value: "+ num + "<br>");
+// num++;
+// document.write("Value after increment is: " + num + "<br>");
+// num = num + 7;
+// document.write("Value after addition is: " + num + "<br>");
+// num--;
+// document.write("Value after decrement is: " + num + "<br>");
+// num = num % 3;
+// document.write("The remainder is: " + num + "<br>");
+
+// // 4.
+// var ticketPrice = 600;
+// totalCost = ticketPrice * 5;
+// document.write("Total cost to buy 5 tickets to a movie is " + totalCost + "PKR");
+
+// // 5.
+// var table = +prompt("Enter your number");
+// document.write("Table of 4 <br>");
+// document.write(table + " x 1 = " + table * 1 + "<br>")
+// document.write(table + " x 2 = " + table * 2 + "<br>")
+// document.write(table + " x 3 = " + table * 3 + "<br>")
+// document.write(table + " x 4 = " + table * 4 + "<br>")
+// document.write(table + " x 5 = " + table * 5 + "<br>")
+// document.write(table + " x 6 = " + table * 6 + "<br>")
+// document.write(table + " x 7 = " + table * 7 + "<br>")
+// document.write(table + " x 8 = " + table * 8 + "<br>")
+// document.write(table + " x 9 = " + table * 9 + "<br>")
+// document.write(table + " x 10 = " + table * 10 + "<br>")
+
+// 6.
+
 
